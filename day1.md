@@ -1,14 +1,14 @@
-#Refactory day 1
+# Refactory day 1
 
-###Brief introduction to JS
-###Snippet for vscode
-###Introduction to zsh
+### Brief introduction to JS
+### Snippet for vscode
+### Introduction to zsh
 1. Install zsh and oh-my-zsh
 2. use zsh and costumize it's look
 3. plugins and themes for zsh
 4. shortcut at zsh
 
-###git brief history
+### git brief history
 1. how to use git
 2. create ssh key
 3. git command
