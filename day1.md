@@ -3,7 +3,7 @@
 * ### Brief introduction to JS
   in this section a brief introduction to javascript(JS) are presented. this is include short history of(JS) and graph that show JS are currently one of most popular language.
 * ### Snippet for vscode
-  in this section a few extention for vscode are explained and installed
+  in this section a few extention like GitLens and Qoukka.js for vscode are explained and installed. 
 * ### Introduction to zsh
   zsh is a another unix shell that we can use to replace it's original shell. This section cover zsh and oh-my-zsh as following: 
   1. Install zsh and oh-my-zsh
