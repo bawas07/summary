@@ -1,0 +1,2 @@
+### finishing challenge
+  there is only one section for this day. Which is finishing cli-challenge. In here, web scrapping is learned. Also how to search library and how to use it to solve the problem is learned  
